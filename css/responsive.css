@@ -1,0 +1,38 @@
+@media screen and (max-width: 1199px){
+
+
+    .for-desktop{
+        display: none;
+    }
+    .for-mobile{
+        display: block;
+    }
+    .nav-item a {
+        margin: 0 6px;
+    }
+    .full-blog{
+        margin-bottom: 20px;
+    }
+    .half-blog{
+        height: 200px;
+        margin-bottom: 20px;
+    }
+    .hero-content{
+        padding: 50px 0;
+    }
+    .section-pading{
+        padding: 50px 0;
+    }
+    .newslatter{
+        width: 100%;
+    }
+    .pa-left-30{
+        padding-left:0!important;
+    }
+    .pa-left{
+        padding: 0!important;
+    }
+    
+
+}
+
