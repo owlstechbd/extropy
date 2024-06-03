@@ -9,7 +9,7 @@ $(document).ready(function() {
     margin:30,
     responsive: {
       0: {
-        items: 1
+        items: 1.2
       },
       480: {
         items: 2

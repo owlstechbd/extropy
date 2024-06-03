@@ -32,6 +32,9 @@
     .pa-left{
         padding: 0!important;
     }
+    li.nav-item{
+        margin: 10px 0;
+    }
     
 
 }
